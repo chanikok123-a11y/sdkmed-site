@@ -1,6 +1,5 @@
 // English text for the SDK MED page, keyed by the Hebrew it replaces
 window.SDK_EN = {
-  "דוגמה לאפיון ראשוני.": "A sample of an initial assessment.",
   "TZUR היא חברת הגנה ואבטחה ברמה הגבוהה ביותר, לגופים ולאנשים הפועלים בסביבות מורכבות ובסיכון גבוה. החברה מאחדת אבטחת אישים ומודיעין תחת פיקוד אחד, ומלווה לקוחות בתנועה בעולם, בניהול משברים ובאיחוד ספקי האבטחה לתמונה מבצעית אחת.": "TZUR is a top-tier protection and security firm for organisations and people operating in complex, high-risk environments. It unifies executive protection and intelligence under one command, and supports clients in global mobility, crisis management and consolidating security vendors into a single operational picture.",
   "המייסדים של SDK MED, ד״ר דוד קוק ורו״ח שמוליק קוק, הם גם שותפים ב-TZUR.": "The founders of SDK MED, Dr. David Kook and Shmulik Kook, CPA, are also partners in TZUR.",
   "TZUR היא חברת הגנה ואבטחה ברמה הגבוהה ביותר, לגופים ולאנשים הפועלים בסביבות מורכבות ובסיכון גבוה. החברה מאחדת אבטחת אישים, מודיעין ומוכנות רפואית תחת פיקוד אחד, ומלווה לקוחות בתנועה בעולם, בניהול משברים ובאיחוד ספקי האבטחה לתמונה מבצעית אחת.": "TZUR is a top-tier protection and security firm for organisations and people operating in complex, high-risk environments. It unifies executive protection, intelligence and medical readiness under one command, and supports clients in global mobility, crisis management and consolidating security vendors into a single operational picture.",
@@ -44,7 +43,7 @@ window.SDK_EN = {
   "תיאום וליווי": "Coordination & escort",
   "תיאום וליווי הטסות רפואיות": "Coordinating and escorting medical flights",
   "כל הגורמים בהטסה, מתואמים מול כתובת אחת.": "Every party in the flight, coordinated through one address.",
-  "תחום שירותים לפיתוח פתרונות תיאום וליווי רפואי בהטסות ובהעברות רפואיות, בשיתוף אנשי מקצוע וספקים מתאימים ובהתאם לזמינות ולהסדרים הנדרשים.": "A service area developing medical coordination and escort solutions for medical flights and transfers, together with suitable professionals and providers, subject to availability and the required arrangements.",
+  "תחום שירותים לפיתוח פתרונות תיאום וליווי רפואי בהטסות רפואיות, בשיתוף אנשי מקצוע וספקים מתאימים ובהתאם לזמינות ולהסדרים הנדרשים.": "A service area developing medical coordination and escort solutions for medical flights, together with suitable professionals and providers, subject to availability and the required arrangements.",
   "בירור צורכי ההטסה": "Assessing flight needs", "תיאום גורמים רפואיים": "Coordinating medical parties", "התאמת מלווים רפואיים": "Matching medical escorts", "תיאום מול ספקי תובלה וחברות ביטוח": "Liaising with transport providers and insurers",
   "בירור אפשרויות ליווי רפואי": "Explore medical escort options",
   "כוח אדם רפואי מותאם": "Tailored medical staffing",
@@ -65,7 +64,7 @@ window.SDK_EN = {
   "עבדנו עם": "Worked with",
   "איזו מעטפת מתאימה לכם?": "Which medical cover fits you?", "ספרו לנו על המשימה.": "Tell us about the mission.",
   "נבחן את המענה הרפואי המתאים ונחזור אליכם. ארבעה שלבים קצרים, בלי מסמכים ובלי מידע רפואי אישי.": "We will review the right medical response and get back to you. Four short steps, no documents and no personal medical information.",
-  "כוח אדם": "Staffing", "דוגמה בלבד. כל בקשה נבחנת על ידי הצוות, וזו לא המלצה רפואית.": "Example only. Every request is reviewed by our team; this is not medical advice.",
+  "כוח אדם": "Staffing", "דוגמה לאפיון ראשוני.": "A sample of an initial assessment.", "דוגמה בלבד. כל בקשה נבחנת על ידי הצוות, וזו לא המלצה רפואית.": "Example only. Every request is reviewed by our team; this is not medical advice.",
   "חטיבה": "Division", "סוג משימה": "Mission type", "פרטים": "Details", "איש קשר": "Contact",
   "באיזה תחום מדובר?": "Which area is it?", "מה סוג המשימה?": "What type of mission?", "איפה, מתי ובאיזה היקף?": "Where, when and at what scope?",
   "מיקום": "Location", "מועד": "Timing", "היקף": "Scope", "בחרו": "Choose", "יום פעילות אחד": "One day of activity", "כמה ימים": "A few days", "שבועות או יותר": "Weeks or longer", "מתמשך": "Ongoing", "עוד לא ידוע": "Not known yet",
